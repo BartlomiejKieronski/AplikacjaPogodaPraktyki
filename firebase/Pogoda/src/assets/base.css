@@ -1,0 +1,11 @@
+body{
+  position:fixed !important;
+  content:"" !important;
+  left:0 !important;
+  top:0 !important;
+  width:100% !important;
+  height:100% !important;
+  background-image: url("../src/assets/background.png") !important;
+  background-position: center top !important;
+  background-size: cover !important;
+}
