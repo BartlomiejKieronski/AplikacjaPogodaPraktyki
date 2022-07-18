@@ -1,6 +1,6 @@
 <template>
 <div>
- <p> <router-link to="/Pogoda">  {{ msg }}</router-link></p>
+ <p> <router-link to="/Pogoda">  Powrót do Pogody</router-link></p>
 <div>
   <LineChart :chart-data="TemperaturaData" />
 </div>
